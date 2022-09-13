@@ -46,4 +46,6 @@ int main()
 
 	insertIntoRawArray(20);
 	printf("%f\r\n", MovingAverageFilter());
+
+	return 0;
 }
